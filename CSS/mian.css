@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding:0px;
+    font-size: 16px;
+}
+#container{
+    margin:25px;
+    min-height: 1000px;
+    _height:1000px;
+}
+.title{
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.title_text{
+    height :35px;
+    line-height: 35px;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+}
+.person_det{
+    height: 74px;
+}
+.det{
+    line-height: 25px;
+    padding-left: 15px;
+}
+.left{
+    float: left;
+    width: 40%;
+}
+.middle{
+    width: 40%；
+}
+.right{
+    width: 20%;
+    float: right;
+}
+.eduback_det_middle{
+    text-align: center;
+}
+.eduback_det{
+    height: 125px;
+    padding-left: 15px;
+}
+.eduback_med{
+    padding-top:10px;
+    padding-left: 15px;
+}
+.eduback_med,.schpos_det p,.project_det p,.project_det ul,.skill,.selfass{
+    clear: both;
+}
+.describe{
+    text-indent: 2em;
+}
